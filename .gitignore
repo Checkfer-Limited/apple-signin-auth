@@ -8,8 +8,8 @@ package-lock.json
 /coverage
 
 # production
-/lib
-/build
+#/lib
+#/build
 
 # misc
 .DS_Store
